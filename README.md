@@ -2,8 +2,24 @@
 
 > 매일 배운 것을 기록합니다!
 
+
+
 ## 목차
 
-* [git](./git)
-* [markdown](./markdown.md)
+
+
+### 1. Web(Frontend)
+
+- [REACT](./react)
+
+
+
+### 2. Web(Backend)
+
+
+
+### 3. etc..
+
+- [MARKDOWN](./markdown.md)
+- [GIT](./git)
 
